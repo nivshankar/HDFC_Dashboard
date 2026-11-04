@@ -146,7 +146,7 @@ Source Data  (Deposits · Loans · Branches · Transactions)
 
 This page measures how deposit mobilisation is tracking against targets. Seven dropdown slicers (**Financial Year, Quarter, Month, Region, Zone, Branch Name, Product Type**) sit at the top, followed by four KPI cards, four visuals and a hierarchical performance table.
 
-![Deposits vs Targets Dashboard](Assets/Deposits_vs_Targets.png)
+![Deposits vs Targets Dashboard](Screenshots/Deposits_vs_Targets.png)
 
 ---
 
@@ -188,7 +188,7 @@ This page measures how deposit mobilisation is tracking against targets. Seven d
 
 The Loan Portfolio page breaks down the lending book by product, status and geography, and tracks collection efficiency and asset quality. Slicers: **Financial Year, Quarter, Region, Zone, Branch Name, Loan Product**.
 
-![Loan Portfolio Dashboard](Assets/Loan_Portfolio.png)
+![Loan Portfolio Dashboard](Screenshots/Loan_Portfolio.png)
 
 ---
 
@@ -222,7 +222,7 @@ The Loan Portfolio page breaks down the lending book by product, status and geog
 
 The Branch Performance page evaluates the branch network on transactions, deposits and achievement, and ranks branches. Slicers: **Financial Year, Quarter, Region, Zone, Branch Name, Branch Type**.
 
-![Branch Performance Dashboard](Assets/Branch_Performance.png)
+![Branch Performance Dashboard](Screenshots/Branch_Performance.png)
 
 ---
 
@@ -320,7 +320,7 @@ MIT License — Free to use, modify, and distribute with attribution.
 
 <div align="center">
 
-### [Your Name]
+### [Neev Shankar]
 
 > *"Data transformed into structure becomes insight; insight transformed into strategy becomes growth."*
 
